@@ -238,7 +238,7 @@ Fold Scores:
 0.794
 0.731
 ```
-![5-Fold_cross_validation_performance_plot](Figures\cross_validation_scores.png)
+![5_Fold_cross_validation_plot](Figures/cross_validation_scores.png)
 
 Performance:
 
